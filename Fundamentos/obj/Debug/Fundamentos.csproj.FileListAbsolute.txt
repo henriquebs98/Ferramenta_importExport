@@ -1,0 +1,40 @@
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\bin\Debug\Fundamentos.exe.config
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\bin\Debug\Fundamentos.exe
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\bin\Debug\Fundamentos.pdb
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\Fundamentos.csprojResolveAssemblyReference.cache
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\ImportExport.EscolherExportacaoForm.resources
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\ImportExport.FuncionariosForm.resources
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\ImportExport.PrincipalForm.resources
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\Fundamentos.Properties.Resources.resources
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\ImportExport.SobreForm.resources
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\ImportExport.SplashForm.resources
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\Fundamentos.csproj.GenerateResource.Cache
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\Fundamentos.exe
+c:\users\resource\documents\visual studio 2012\Projects\Fundamentos\Fundamentos\obj\Debug\Fundamentos.pdb
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\bin\Debug\Fundamentos.exe.config
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\Fundamentos.exe
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\Fundamentos.pdb
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\bin\Debug\Fundamentos.exe
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\bin\Debug\Fundamentos.pdb
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\Fundamentos.csprojResolveAssemblyReference.cache
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\ImportExport.EscolherExportacaoForm.resources
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\ImportExport.FuncionariosForm.resources
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\ImportExport.PrincipalForm.resources
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\Fundamentos.Properties.Resources.resources
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\ImportExport.SobreForm.resources
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\ImportExport.SplashForm.resources
+C:\Users\resource\Documents\Henrique Bittencourt\Estudos\Projetos\ImportExport\Fundamentos\obj\Debug\Fundamentos.csproj.GenerateResource.Cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\bin\Debug\Fundamentos.exe.config
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\bin\Debug\Fundamentos.exe
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\bin\Debug\Fundamentos.pdb
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\Fundamentos.csprojAssemblyReference.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\ImportExport.EscolherExportacaoForm.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\ImportExport.FuncionariosForm.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\ImportExport.PrincipalForm.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\Fundamentos.Properties.Resources.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\ImportExport.SobreForm.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\ImportExport.SplashForm.resources
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\Fundamentos.csproj.GenerateResource.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\Fundamentos.csproj.CoreCompileInputs.cache
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\Fundamentos.exe
+D:\0 -  ARQUIVOS\1 - HENRIQUE\Documentos\2 - Estudos\5 - Projetos\0 - C#\ImportExport\Fundamentos\obj\Debug\Fundamentos.pdb

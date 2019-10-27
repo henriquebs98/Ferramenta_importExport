@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImportExport.EscolherExportacaoForm">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACADAAAAAACAAAASAAAAAAAABAAABABAAAA=</HashCode>
+      <FileName>EscolherExportacaoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImportExport.FuncionariosForm">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgCiAAAAEAACAAAACAgAAQAAABAAAAQAIEEA=</HashCode>
+      <FileName>FuncionariosForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImportExport.PrincipalForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AVAAAAAAACAAAAACokGAAFoCAAAEAABEAAAAABAAAAA=</HashCode>
+      <FileName>PrincipalForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImportExport.SobreForm">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SobreForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImportExport.SplashForm">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>SplashForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
